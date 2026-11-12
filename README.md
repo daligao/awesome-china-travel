@@ -49,6 +49,7 @@ Policies change — always verify with an embassy or [China National Immigration
 - [China Survival Kit](https://chinasurvivalkit.com) ⭐ - **All-in-one guide with 15+ interactive tools** - Essential apps setup, payment guides, emergency cards, offline maps
 - [The China Travel Guide](https://www.travelchinaguide.com/) - Comprehensive travel information
 - [China Highlights](https://www.chinahighlights.com/) - Tour planning and travel tips
+- [China in Reach](https://chinainreach.com/) - English first-trip guides and a three-city itinerary planner, with official-source explainers for visas, payments and high-speed rail
 - [WikiTravel China](https://wikitravel.org/en/China) - Community-driven travel guide
 - [Lonely Planet China](https://www.lonelyplanet.com/china) - Professional travel guide
 
